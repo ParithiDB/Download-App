@@ -1,0 +1,12 @@
+h3 {
+    padding: 50px;
+    text-align: center;
+}
+
+.container {
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
